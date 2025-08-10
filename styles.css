@@ -116,8 +116,8 @@ main {
 }
 
 .section-image {
-  width: 150px;          /* largura fixa */
-  height: 150px;         /* altura fixa */
+  width: 250px;          /* largura fixa */
+  height: 250px;         /* altura fixa */
   object-fit: cover;     /* mantém proporção e corta o excesso */
   border-radius: 4px;    /* cantos arredondados */
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
